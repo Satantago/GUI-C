@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/minesweeper.dir/tests/minesweeper.c.o  -o minesweeper  -lei ../_x11/libeibase64.a -L/home/hajbie/projetc_ig/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm 

@@ -1,0 +1,12 @@
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/ei.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/minimal.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/frame.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/button.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/hello_world.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/puzzle.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/two048.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/minesweeper.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/parsing.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/doc.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stan/imag/Hassan/A1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
